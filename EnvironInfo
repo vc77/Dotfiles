@@ -1,0 +1,15 @@
+OS: Arch Linux
+
+Bar: Polybar
+
+Filemanagers: Thunar and Ranger
+
+Terminal: URxVt
+
+Icons: Papyrus
+
+Font: FuraCode Nerd Font Mono (aa in gui, no aa in terminal)
+
+https://www.reddit.com/r/unixporn/comments/ahztal/modern_yellow_herbstluftwm/
+
+All thank goes to https://github.com/deviantfero/wpgtk. For the 2 ppl of you who don't know about it yet: It makes themeing so easy my mother could do it.
